@@ -1,0 +1,24 @@
+{
+  "name": "Akshay Memane",
+  "title": "Senior Backend / Platform Engineer",
+  "subtitle": "Java Full Stack Engineer",
+  "location": "Pune, India",
+  "contact": {
+    "phone": "+91 808 749 2905",
+    "email": "akshaymemane29@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/akshay-memane/",
+    "github": "https://github.com/akshaymemane"
+  },
+  "summary": "Senior Backend / Platform Engineer with 9+ years of experience designing and scaling high-traffic, distributed systems in insurance, banking, and payments domains. Specialized in event-driven microservices, system modernization, and backend platform ownership at scale. Proven track record of leading 6–8 engineers, driving architectural migrations (sync → async), improving system reliability and latency, and enabling business-critical workflows used by millions of users.",
+  "availability": "open_to_opportunities",
+  "target_roles": ["Staff Software Engineer", "Senior Software Engineer", "Principal Engineer"],
+  "target_companies": ["Google", "Amazon", "PayPal", "Agoda", "Meta", "Netflix"],
+  "years_experience": "9+",
+  "team_leadership_experience": "6-8 engineers",
+  "core_expertise": [
+    "Backend & Platform Engineering",
+    "Distributed Systems & Event-Driven Architecture", 
+    "System Design & Scalability",
+    "Technical Leadership & Mentorship"
+  ]
+}

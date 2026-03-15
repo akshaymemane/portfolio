@@ -1,0 +1,51 @@
+{
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "field": "Information Technology",
+      "institution": "University of Pune",
+      "location": "Pune, India",
+      "duration": {
+        "start": "2013-07",
+        "end": "2016-05",
+        "display": "Jul 2013 - May 2016"
+      },
+      "type": "undergraduate"
+    },
+    {
+      "degree": "Diploma", 
+      "field": "Information Technology",
+      "institution": "PDEA's Institute of Technology",
+      "location": "Pune, India",
+      "duration": {
+        "start": "2010-07",
+        "end": "2013-05",
+        "display": "Jul 2010 - May 2013"
+      },
+      "type": "diploma"
+    }
+  ],
+  "continuous_learning": [
+    {
+      "topic": "System Design",
+      "focus": "FAANG-level interviews and large-scale distributed systems",
+      "status": "ongoing"
+    },
+    {
+      "topic": "Data Structures & Algorithms",
+      "platform": "LeetCode",
+      "focus": "Medium/Hard problems for technical interviews", 
+      "status": "ongoing"
+    },
+    {
+      "topic": "AI/ML Engineering",
+      "focus": "Personal AI assistant development and local model deployment",
+      "status": "ongoing"
+    },
+    {
+      "topic": "Staff+ Engineering",
+      "focus": "Technical leadership and architectural decision making",
+      "status": "ongoing"
+    }
+  ]
+}

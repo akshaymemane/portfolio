@@ -1,0 +1,90 @@
+{
+  "featured_projects": [
+    {
+      "title": "Personal AI Assistant (Raspberry Pi)",
+      "description": "Self-hosted AI assistant running on Raspberry Pi using OpenClaw, Ollama, and Telegram bot integration. Features local AI models, automation scripts, and personal productivity tools.",
+      "technologies": ["OpenClaw", "Ollama", "Telegram Bot", "Raspberry Pi", "Docker", "AI/ML"],
+      "outcomes": [
+        "Fully self-hosted AI assistant with no cloud dependencies",
+        "Integrated with Telegram for remote access and control", 
+        "Automated server monitoring and home automation capabilities",
+        "Learning platform for AI/ML and edge computing"
+      ],
+      "status": "active",
+      "year": "2024-2026",
+      "category": "Personal Infrastructure"
+    },
+    {
+      "title": "Solar Dashboard Integration",
+      "description": "Unified dashboard for collecting power generation data from multiple solar installations using Growatt APIs. Built for monitoring and analytics across distributed solar assets.",
+      "technologies": ["Go", "REST APIs", "Dashboard", "Real-time Data", "Energy Analytics"],
+      "outcomes": [
+        "Reverse-engineered Growatt solar panel APIs",
+        "Built unified monitoring for multiple solar installations",
+        "Real-time power generation tracking and analytics",
+        "Foundation for energy management automation"
+      ],
+      "status": "in_progress", 
+      "year": "2026",
+      "category": "IoT & Analytics"
+    },
+    {
+      "title": "Insurance Platform Modernization",
+      "description": "Led architectural migration of legacy insurance systems to event-driven microservices architecture at Allstate. Served millions of users with improved reliability and performance.",
+      "technologies": ["Java", "Spring Boot", "Apache Kafka", "Flowable BPMN", "Microservices", "Datadog"],
+      "outcomes": [
+        "Migrated from synchronous to async event-driven architecture",
+        "Reduced operational effort by 40% through workflow automation",
+        "Improved incident resolution by 50% with better observability",
+        "Enabled independent deployments across 8-person engineering team"
+      ],
+      "status": "completed",
+      "year": "2022-2026", 
+      "category": "Enterprise Platform"
+    },
+    {
+      "title": "Global Event Management Platform",
+      "description": "Scaled backend services for global events company (Hyve Group) to handle thousands of concurrent users during peak event periods with real-time updates.",
+      "technologies": ["Java", "Spring Boot", "Apache Kafka", "Real-time Systems", "High Concurrency"],
+      "outcomes": [
+        "Designed Kafka-based real-time data pipelines",
+        "Handled thousands of concurrent users during peak events",
+        "Reduced data latency across distributed systems",
+        "Cross-team technical alignment and architecture ownership"
+      ],
+      "status": "completed",
+      "year": "2021-2022",
+      "category": "High-Traffic Systems"
+    },
+    {
+      "title": "Payment Processing Optimization",
+      "description": "Enhanced global payment platform (Worldline) for high-volume transaction processing with improved scalability and real-time capabilities.",
+      "technologies": ["Java", "Spring Boot", "Apache Kafka", "Payment Systems", "High-throughput"],
+      "outcomes": [
+        "Integrated Kafka queues with payment microservices",
+        "Enabled real-time processing of high transaction volumes",
+        "Improved system scalability and throughput",
+        "Full-stack collaboration with Angular frontend teams"
+      ],
+      "status": "completed",
+      "year": "2019-2021",
+      "category": "Financial Systems"
+    }
+  ],
+  "side_projects": [
+    {
+      "title": "Interview Preparation System",
+      "description": "Personal system for FAANG interview preparation including LeetCode problem tracking, system design practice, and progress monitoring.",
+      "technologies": ["Data Structures", "Algorithms", "System Design", "Personal Productivity"],
+      "status": "ongoing",
+      "category": "Career Development"
+    },
+    {
+      "title": "Home Server Infrastructure", 
+      "description": "Self-hosted personal server setup with domains, SSL certificates, monitoring, and various automation tools.",
+      "technologies": ["Linux", "Nginx", "Docker", "LetsEncrypt", "Server Administration"],
+      "status": "ongoing",
+      "category": "DevOps"
+    }
+  ]
+}

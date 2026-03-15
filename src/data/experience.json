@@ -1,0 +1,86 @@
+{
+  "experience": [
+    {
+      "company": "Allstate",
+      "role": "Lead Software Engineer - Platform",
+      "location": "Pune, India",
+      "duration": {
+        "start": "2022-09",
+        "end": "present",
+        "display": "Sept 2022 - Present"
+      },
+      "summary": "Core insurance platform modernization serving millions of users across critical life-event workflows.",
+      "achievements": [
+        "Owned backend architecture for life-event correction and change-agent workflows, impacting millions of insurance policies annually",
+        "Led architectural migration from synchronous REST-based services to asynchronous, Kafka-driven event pipelines, improving scalability and reducing peak-traffic latency",
+        "Designed event contracts and service boundaries to decouple tightly-coupled legacy systems, enabling independent deployments and safer releases",
+        "Orchestrated complex business workflows using Flowable BPMN, eliminating manual processing and reducing operational effort by ~40%",
+        "Mentored and guided 6–8 engineers through design reviews, production incidents, and architectural trade-offs, raising overall team quality",
+        "Improved observability and on-call reliability using Datadog dashboards and alerts, cutting unresolved incidents by ~50%"
+      ],
+      "technologies": ["Java", "Spring Boot", "Apache Kafka", "Flowable BPMN", "Datadog", "Microservices", "Event-Driven Architecture"],
+      "team_size": 8,
+      "impact_metrics": [
+        { "metric": "Operational Effort Reduction", "value": "40%", "description": "Reduced manual processing through BPMN workflows" },
+        { "metric": "Incident Resolution", "value": "50%", "description": "Improved unresolved incident rate with better observability" },
+        { "metric": "Scale", "value": "Millions", "description": "Insurance policies impacted annually" }
+      ]
+    },
+    {
+      "company": "Coditas",
+      "role": "Senior Software Engineer",
+      "location": "Pune, India", 
+      "duration": {
+        "start": "2021-02",
+        "end": "2022-09",
+        "display": "Feb 2021 - Sept 2022"
+      },
+      "summary": "Hyve Group – A global events company requiring scalable systems to handle high traffic and complex event management workflows.",
+      "achievements": [
+        "Scaled backend services for a global event-management platform handling thousands of concurrent users during peak events",
+        "Designed Kafka-based data pipelines to support real-time updates and reduce data latency across distributed systems",
+        "Acted as technical point-of-contact across teams, aligning backend architecture with product and frontend requirements"
+      ],
+      "technologies": ["Java", "Spring Boot", "Apache Kafka", "Microservices", "Real-time Systems"],
+      "impact_metrics": [
+        { "metric": "Concurrent Users", "value": "1000s", "description": "Handled during peak event periods" }
+      ]
+    },
+    {
+      "company": "Cybage",
+      "role": "Senior Software Engineer",
+      "location": "Pune, India",
+      "duration": {
+        "start": "2019-07",
+        "end": "2021-02", 
+        "display": "Jul 2019 - Feb 2021"
+      },
+      "summary": "Worldline – A global payment service provider requiring robust backend systems for handling high transaction volumes and complex payment processes.",
+      "achievements": [
+        "Improved system scalability and throughput for global payments platforms by integrating Kafka queues with core payment microservices, enabling real-time processing of high transaction volumes",
+        "Collaborated on building distributed systems in Java/Spring Boot, aligning backend enhancements with Angular-based frontend teams for a seamless and scalable customer experience"
+      ],
+      "technologies": ["Java", "Spring Boot", "Apache Kafka", "Angular", "Payment Systems", "High-throughput Systems"],
+      "impact_metrics": []
+    },
+    {
+      "company": "Tech Mahindra",
+      "role": "Software Engineer",
+      "location": "Pune, India",
+      "duration": {
+        "start": "2016-08",
+        "end": "2019-07",
+        "display": "Aug 2016 - Jul 2019"
+      },
+      "summary": "rPDB(British Telecom) - A legacy system modernization project aimed at transitioning from outdated technologies to more scalable and maintainable solutions.",
+      "achievements": [
+        "Participated in legacy modernization projects, migrating batch and synchronous processing systems to event-driven architectures using Spring Boot and Kafka, increasing maintainability and performance",
+        "Contributed to critical API optimization, resulting in a 30% reduction in response time and improved system reliability"
+      ],
+      "technologies": ["Java", "Spring Boot", "Apache Kafka", "Legacy System Migration", "API Optimization"],
+      "impact_metrics": [
+        { "metric": "Response Time Reduction", "value": "30%", "description": "Through API optimizations" }
+      ]
+    }
+  ]
+}

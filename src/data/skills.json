@@ -1,0 +1,158 @@
+{
+  "skills": {
+    "core_expertise": [
+      {
+        "category": "Backend & Platform Engineering",
+        "level": "expert",
+        "years": 9
+      },
+      {
+        "category": "Distributed Systems & Event-Driven Architecture", 
+        "level": "expert",
+        "years": 7
+      },
+      {
+        "category": "System Design & Scalability",
+        "level": "expert", 
+        "years": 6
+      },
+      {
+        "category": "Technical Leadership & Mentorship",
+        "level": "advanced",
+        "years": 4
+      }
+    ],
+    "programming_languages": [
+      {
+        "name": "Java",
+        "level": "expert",
+        "years": 9,
+        "primary": true
+      },
+      {
+        "name": "Go",
+        "level": "intermediate",
+        "years": 2
+      },
+      {
+        "name": "TypeScript",
+        "level": "intermediate", 
+        "years": 3
+      },
+      {
+        "name": "Python",
+        "level": "intermediate",
+        "years": 2
+      }
+    ],
+    "backend_architecture": [
+      {
+        "name": "Spring Boot",
+        "level": "expert",
+        "years": 8
+      },
+      {
+        "name": "Microservices",
+        "level": "expert",
+        "years": 7
+      },
+      {
+        "name": "REST & Async APIs",
+        "level": "expert",
+        "years": 8
+      },
+      {
+        "name": "Apache Kafka",
+        "level": "expert",
+        "years": 6
+      },
+      {
+        "name": "Event Streaming",
+        "level": "expert",
+        "years": 5
+      },
+      {
+        "name": "BPMN / Workflow Orchestration",
+        "level": "advanced",
+        "years": 3,
+        "specific": ["Flowable", "Camunda"]
+      }
+    ],
+    "cloud_devops": [
+      {
+        "name": "AWS",
+        "level": "advanced",
+        "years": 5,
+        "specific": ["EC2", "RDS", "S3"]
+      },
+      {
+        "name": "Docker",
+        "level": "advanced",
+        "years": 6
+      },
+      {
+        "name": "Kubernetes",
+        "level": "intermediate",
+        "years": 3
+      },
+      {
+        "name": "CI/CD",
+        "level": "advanced",
+        "years": 5,
+        "specific": ["Jenkins", "GitHub Actions"]
+      }
+    ],
+    "data_observability": [
+      {
+        "name": "PostgreSQL",
+        "level": "advanced",
+        "years": 7
+      },
+      {
+        "name": "MySQL",
+        "level": "advanced",
+        "years": 8
+      },
+      {
+        "name": "MongoDB",
+        "level": "intermediate",
+        "years": 4
+      },
+      {
+        "name": "Datadog",
+        "level": "advanced",
+        "years": 3
+      },
+      {
+        "name": "Prometheus",
+        "level": "intermediate",
+        "years": 2
+      }
+    ],
+    "frontend": [
+      {
+        "name": "React",
+        "level": "intermediate",
+        "years": 3
+      },
+      {
+        "name": "Angular",
+        "level": "intermediate",
+        "years": 2
+      },
+      {
+        "name": "TypeScript",
+        "level": "intermediate",
+        "years": 3
+      }
+    ]
+  },
+  "certifications": [],
+  "learning_focus": [
+    "System Design for FAANG interviews",
+    "Data Structures & Algorithms (LeetCode)",
+    "Staff+ Engineering Leadership",
+    "AI/ML Integration",
+    "Personal AI Assistant Development"
+  ]
+}
